@@ -19,6 +19,8 @@ about:
   To avoid duplicate issues we ask you to check off the following list.
 -->
 
+### 🌟 Contribution Guidelines 🌟
+
 <!-- Checked checkbox should look like this: [x] -->
 
 * [x] The issue is present in the latest release.
