@@ -73,7 +73,7 @@ git commit -m 'CCSB-1 Added logger class to use a logger service'
 
 ### Before creating a pull request please
 
-* Make sure you created an [Issue](https://github.com/Fight-Like-a-Girl/issues) related to it and you're following the [issues section](#Issues) recommendations
+* Make sure you created an [Issue](https://github.com/Fight-Like-a-Girl/release-ccs-frontend/issues) related to it and you're following the [issues section](#Issues) recommendations
 * Make sure you're following the [branches section](#Branches) recommendations
 * Make sure you're following the [commits section](#Commits) recommendations
 
