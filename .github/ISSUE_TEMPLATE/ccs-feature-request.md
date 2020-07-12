@@ -21,17 +21,19 @@ about:
 
 <!-- Checked checkbox should look like this: [x] -->
 
-* [ ] The issue is present in the latest release.
-* [ ] I have searched the [issues](https://github.com/Fight-Like-a-Girl/release-ccs-frontend/issues) of this repository and believe that this is not a duplicate.
+### 🌟 Contribution Guidelines 🌟
 
-## 🌜 Summary 🌛
+* [ ] The issue is present in the latest release.
+* [x] I have searched the [issues](https://github.com/Fight-Like-a-Girl/release-ccs-frontend/issues) of this repository and believe that this is not a duplicate.
+
+### 🌜 Summary 🌛
 
 <!-- Describe how it should work. -->
 
-## 🌈 Requirements 🌈
+### 🌈 Requirements 🌈
 
 <!-- Provide a description of the requirements the feature should accomplish. -->
 
-## 🌸 Motivation 🌸
+### 🌸 Motivation 🌸
 
 <!-- What are you trying to accomplish? How has the lack of this feature affected you? -->
